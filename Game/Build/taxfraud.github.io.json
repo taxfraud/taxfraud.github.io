@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KidsPlayground",
+"dataUrl": "taxfraud.github.io.data.unityweb",
+"asmCodeUrl": "taxfraud.github.io.asm.code.unityweb",
+"asmMemoryUrl": "taxfraud.github.io.asm.memory.unityweb",
+"asmFrameworkUrl": "taxfraud.github.io.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
